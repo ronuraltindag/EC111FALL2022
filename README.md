@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 
 # PRINCIPLES OF MICROECONOMICS FALL 2022 
 
